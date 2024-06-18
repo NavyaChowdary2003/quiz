@@ -1,0 +1,18 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './/Nav.css'
+import App from './App';
+import 'boxicons/css/boxicons.min.css';
+
+
+
+
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  
+    <App />
+  
+);
+
+
